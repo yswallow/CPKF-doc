@@ -51,9 +51,11 @@ Bluetoothキーボードとして動作しています
 
 ### キーマップを変更する
 
-`lib/keyboard/default-keymap.py`を`(CIRCUITPY/)keymap.py`にコピーし, 書き換えることでキーマップを変更できます。キーの種類については[機能一覧](`./feature`)を参照してください。
+`lib/keyboard/default-keymap.py`を`(CIRCUITPY/)keymap.py`にコピーし, 書き換えることでキーマップを変更できます。キーの種類については[機能一覧](./feature.md)を参照してください。
 
 ## 独自のキーボードを定義する
+
+[implement.md](./implement.md)をご覧ください
 
 ## サポートを受ける
 

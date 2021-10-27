@@ -2,7 +2,7 @@
 
 ## 定義されている場所
 
-`cpkf/key_object.md`
+`cpkf/key_object.py`
 
 ## 記法
 
